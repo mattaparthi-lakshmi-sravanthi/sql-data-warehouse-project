@@ -65,6 +65,3 @@ Stores transactional sales data for analytical purposes.
 | price            | INT            | The price per unit of the product for the line item, in whole currency units (e.g., 25). |
 
 
-
-* Or align this exactly with **Bronze/Silver naming conventions**
-* Or create a **README.md template** for your entire Data Warehouse project
